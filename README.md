@@ -62,3 +62,14 @@
 
 #### Sessions:  
 - Article :book: : http://tibanews.com/ss/tibanet/index.php/php/php-skills/intro-session 
+
+------------------
+
+#### Buffer OverFlow:  
+- Video :movie_camera: : https://www.youtube.com/watch?v=yRvuEVgSPBk&list=PL_yseowcuqYIaReP8ttfr0BAxbqZ7tmhq
+- Article :book: : https://www.kutub.info/library/book/10877
+- Article :book: : https://www.exploit-db.com/docs/arabic/44880-buffer-overflow-for-windows---egghunter.pdf 
+
+
+
+

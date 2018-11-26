@@ -67,9 +67,14 @@
 
 #### Buffer OverFlow:  
 - Video :movie_camera: : https://www.youtube.com/watch?v=yRvuEVgSPBk&list=PL_yseowcuqYIaReP8ttfr0BAxbqZ7tmhq
+- Video :movie_camera: : https://www.youtube.com/playlist?list=PLL_swdn1dLwUdEhoWesGgJj8SvYFe8kcS
 - Article :book: : https://www.kutub.info/library/book/10877
 - Article :book: : https://www.exploit-db.com/docs/arabic/44880-buffer-overflow-for-windows---egghunter.pdf 
 
+------------------
 
-
+#### Assembly Language:  
+- Video :movie_camera: : https://www.youtube.com/watch?v=VXyjgzbxH0Q&list=PLMm8EjqH1EFVodghdDWaAuHkHqj-nJ0bN
+- Video :movie_camera: : https://www.youtube.com/playlist?list=PLL_swdn1dLwX9ZiqDNrf6NzHRxQkgekzX
+- Book :book: : https://download-internet-pdf-ebooks.com/4518-free-book
 

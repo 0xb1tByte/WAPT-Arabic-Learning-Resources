@@ -78,3 +78,8 @@
 - Video :movie_camera: : https://www.youtube.com/playlist?list=PLL_swdn1dLwX9ZiqDNrf6NzHRxQkgekzX
 - Book :book: : https://download-internet-pdf-ebooks.com/4518-free-book
 
+------------------
+
+#### Complete Penetration Testing Courses:
+- Video :movie_camera: : [**General PT Course (OSCP-like)**](https://www.youtube.com/playlist?list=PLtr9ezc61PUb3iQMlvnicIC3BIra2BZId) 
+- Video :movie_camera: : [**Web Application PT Course**](https://www.youtube.com/playlist?list=PLCIJjtzQPZJ_g9sDbW0hzhn_gXnRRF-Z3)

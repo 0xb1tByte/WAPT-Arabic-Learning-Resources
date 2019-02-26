@@ -83,3 +83,9 @@
 #### Complete Penetration Testing Courses:
 - Video :movie_camera: : [**General PT Course (OSCP-like)**](https://www.youtube.com/playlist?list=PLtr9ezc61PUb3iQMlvnicIC3BIra2BZId) 
 - Video :movie_camera: : [**Web Application PT Course**](https://www.youtube.com/playlist?list=PLCIJjtzQPZJ_g9sDbW0hzhn_gXnRRF-Z3)
+
+------------------
+
+#### Write-ups:
+- Video :movie_camera: : [**HackTheBox**](https://www.youtube.com/playlist?list=PLHh_aNCmzvlcRSoJW7BwfP9Fx_-ZZXUZI) 
+

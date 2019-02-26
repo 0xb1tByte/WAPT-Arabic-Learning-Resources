@@ -13,6 +13,12 @@
  
 ### [HTB](https://www.hackthebox.eu/) Machines : 
 - Jail
+- Calamity
+- Sneaky
+- Enterprise
+- October
+- Node
+- Calamity
 
 ### [VulnHub](https://www.vulnhub.com/) Machines : 
 - [Brainpan](https://www.vulnhub.com/series/brainpan,32/) 
@@ -34,4 +40,13 @@
 
 ### [HTB](https://www.hackthebox.eu/) Machines: 
 - Olympus
+
+## [3] - SMB (Null Session) :
+### [HTB](https://www.hackthebox.eu/) Machines: 
+- Active
+
+## [4] - Web Application Attacks:
+### online sites : 
+https://hack.me/ by: [eLearnSecurity](http://elearnsecurity.com/)
+
 
